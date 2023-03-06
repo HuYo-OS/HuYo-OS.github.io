@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.littlebell.top/googlee3534d033f694118.html</loc>
+    
+    <lastmod>2023-03-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.littlebell.top/posts/1793580635/</loc>
     
     <lastmod>2023-03-06</lastmod>
@@ -83,14 +92,14 @@
 
   
   <url>
-    <loc>https://blog.littlebell.top/tags/%E5%B0%8F%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://blog.littlebell.top/tags/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.littlebell.top/tags/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</loc>
+    <loc>https://blog.littlebell.top/tags/%E5%B0%8F%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2023-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
