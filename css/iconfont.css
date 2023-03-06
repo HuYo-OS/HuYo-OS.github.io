@@ -1,1 +1,18 @@
-@font-face{font-family:iconfont;src:url(/font/iconfont.woff2?t=1676361494743) format('woff2'),url(/font/iconfont.woff?t=1676361494743) format('woff'),url(/font/iconfont.ttf?t=1676361494743) format('truetype')}.iconfont{font-family:iconfont!important;font-size:16px;font-style:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-danmu:before{content:"\e61b"}
+@font-face {
+    font-family: "iconfont"; /* Project id 3895361 */
+    src: url('/font/iconfont.woff2?t=1676361494743') format('woff2'),
+         url('/font/iconfont.woff?t=1676361494743') format('woff'),
+         url('/font/iconfont.ttf?t=1676361494743') format('truetype');
+  }
+
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .icon-danmu:before {
+    content: "\e61b";
+  }
